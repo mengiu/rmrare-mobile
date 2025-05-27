@@ -1,0 +1,7 @@
+{
+  "name": "rmrare-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
